@@ -5,20 +5,10 @@ This repository contains a collection of Python programming resources, including
 
 # Contents
 - Variables & Data Types:
-  i)Integers (int)
- ii)Floating-point numbers (float)
-iii)Strings (str)
- iv)Booleans (bool)
-  
+
 -  Control Flow
-  i) Conditional Statements
- ii)Loops
   
 - Data Structures:
-  i)List
- ii)Tuple
-iii)Set
- iv)Dict
 
 - Functions
 
