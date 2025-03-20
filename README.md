@@ -29,15 +29,15 @@ This repository contains a collection of Python programming resources, including
 - Object-Oriented: Python supports OOP principles, making it easy to manage large codebases with reusable and modular components.
 - Third-Party Libraries: Python’s ecosystem is vast, with a rich collection of third-party libraries for every need, from web frameworks to machine learning tools.
 
-  # Overview
+ # Overview
   This document provides an overview of various data structure available in python,their characterstics,and use cases ,Understanding these data structure is crucial for efficient programming and algorithm design.
 
-  # Key Data Structures
+ # Key Data Structures
   1. Lists Definition: Ordered,Mutable collection of items. Characterstics: Can contain mixed data types. Supports indexing and slicing ,Use unorderedCases:Storing Sequences of items,dynamic arrays.
   2. Tuples Definition: Ordered,Immutable collections of items. Characterstics: can contain mixed data types. Use Cases: Fixed collections of items, retirning multiple values from functions.
   3. Sets Defintion :Unordered collections of unique items. Characterstics: No duplicate elements. Supports mathematical set operations ( Union , Intersection ). Use Cases: Membership testing , removing duplicate from a list
   4. Dictionaries Definition : Unordered collections of key value pairs. Characterstics: keys must be unique and mutable. fast lookups,insertions,and deletions.Usecases:Storing data with a unique identifier,implementing associative arrays.
-     # Conclusions
+# Conclusions
      understanding these fundamental data structures is essentuial for effective programming in python. Each structure has its own strengths and weakness,making them suitable for different scenarios..
 
   
