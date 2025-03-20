@@ -12,17 +12,18 @@ Common data types include:
 - Booleans (bool)
 
   
-Control Flow
+* Control Flow
   - Conditional Statements
   - Loops
   
-   Functions
 Data Structures:
 - List
 - Tuple
 - Set
 - Dict
-  
+
+* Functions
+
 Classes & Objects (Object-Oriented Programming)
 
 Error Handling
